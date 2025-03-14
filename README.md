@@ -16,4 +16,3 @@ I’m a student passionate about technology and coding, always eager to learn an
 📌 **Hobbies**  
 - 🎮 Gaming and exploring the latest tech.  
 - 📚 Learning about software engineering best practices.  
-- 🌱 Contributing to open-source communities.  
