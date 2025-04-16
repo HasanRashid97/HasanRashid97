@@ -1,44 +1,56 @@
-👋 Hey, I’m Hasan Rashid
-💻 Datamatiker student @ KEA (Copenhagen School of Design and Technology)
-🚀 Passionate about building tech that actually makes sense for people
-🛠️ Currently building a mobile app that makes Danish politics more transparent using vector search + AI
+# 👋 Hey, I’m Hasan Rashid
 
-💡 About Me
-I'm a developer who enjoys solving real-world problems through clean code, smart design, and collaboration. I love working across the full stack — from frontend to backend, databases, CI/CD, and deployment. Whether it's writing Java in Spring or designing a friendly React Native UI, I'm in my element.
+🎓 **Datamatiker-studerende** med passion for softwareudvikling og teknologier, der gør en forskel. Jeg elsker at skabe digitale løsninger med fokus på både brugeroplevelse og teknisk kvalitet.
 
-I believe the best solutions come from a good understanding of the whole process: idea → design → build → deploy.
+---
 
-⚙️ Tech I'm working with
-Languages:
-Java, JavaScript, Python
+## 💼 Om mig
 
-Frameworks & Libraries:
-Spring Boot, React Native, Node.js, JUnit
+Jeg trives i hele udviklingsprocessen – fra idé og design til kodning, test og deployment. Jeg er nysgerrig, lærevillig og sætter pris på samarbejde, hvor jeg både kan lære og bidrage med egne idéer og løsninger.
 
-Databases:
-MySQL, Firebase, Supabase (PostgreSQL), pgvector
+---
 
-DevOps & Tools:
-Git, GitHub Actions, Docker, Maven, Azure
+## 🛠️ Tech Stack
 
-Methodologies:
-Agile development, Scrum, CI/CD pipelines, UML modeling
+**Sprog:**  
+Java • JavaScript • Python
 
-📱 Current Project
-🗳️ Folketinget Mobile App (React Native + Expo)
-An app that makes Danish parliamentary votes searchable by meaning, not just keywords.
+**Frameworks & Libraries:**  
+Spring • React Native (Expo) • Node.js • JUnit
 
-Built with React Native, styled for a clean user experience
+**Databaser:**  
+MySQL • Firebase • Supabase (PostgreSQL)
 
-Filter votes by party, type, or result
+**CI/CD & Tools:**  
+Git • GitHub Actions • Docker • Maven
 
-Uses OpenAI embeddings + pgvector to implement semantic search
+---
 
-Goal: make politics more accessible and transparent through smarter tech
+## 🚀 Projekter
 
-Why just read laws when you can actually find the ones that matter to you? 😉
+### 🗳️ Folketinget Mobilapp (React Native + Expo)
+> En app der gør det nemt og søgbart at dykke ned i danske afstemninger i Folketinget.  
 
-🔗 Connect with Me
-📬 hasanrashid97@gmail.com
+🔍 Implementeret features:
+- Brugervenlig UI med filtrering på partier, resultater og typer.
+- Vektorsøgning med OpenAI + pgvector (PostgreSQL).
+- Søger baseret på mening fremfor nøgleord.
+- Formålet: Øge politisk transparens og engagement.
 
-🔗 LinkedIn
+---
+
+## 📚 Uddannelse
+
+**Datamatiker – Københavns Erhvervsakademi (2023–2026)**  
+- Fullstack webudvikling  
+- OOP & funktionel programmering  
+- Systemudvikling med Scrum og UML  
+- CI/CD med GitHub Actions og Jenkins  
+- Introduktion til IT-sikkerhed & Docker
+
+---
+
+## 🔗 Find mig her
+
+- 📫 **Email:** hasanrashid97@gmail.com  
+- 🔗 [**LinkedIn**](https://linkedin.com/in/hasanrashid-059943289/)  
