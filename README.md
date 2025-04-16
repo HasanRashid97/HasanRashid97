@@ -31,7 +31,7 @@ Git • GitHub Actions • Docker • Maven
 ### 🗳️ Folketinget Mobilapp (React Native + Expo)
 > En app der gør det nemt og søgbart at dykke ned i danske afstemninger i Folketinget.  
 
-🔍 Implementeret features:
+🔍 Features:
 - Brugervenlig UI med filtrering på partier, resultater og typer.
 - Vektorsøgning med OpenAI + pgvector (PostgreSQL).
 - Søger baseret på mening fremfor nøgleord.
