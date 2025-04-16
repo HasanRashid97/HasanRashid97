@@ -1,18 +1,44 @@
-## Hi there 👋 
+👋 Hey, I’m Hasan Rashid
+💻 Datamatiker student @ KEA (Copenhagen School of Design and Technology)
+🚀 Passionate about building tech that actually makes sense for people
+🛠️ Currently building a mobile app that makes Danish politics more transparent using vector search + AI
 
-🎓 **About Me**  
-I’m a student passionate about technology and coding, always eager to learn and grow in the tech world. I enjoy exploring how things work and bringing creative ideas to life through code.
+💡 About Me
+I'm a developer who enjoys solving real-world problems through clean code, smart design, and collaboration. I love working across the full stack — from frontend to backend, databases, CI/CD, and deployment. Whether it's writing Java in Spring or designing a friendly React Native UI, I'm in my element.
 
-🌟 **Skills & Interests**  
-- 🌐 **Web Development**: Proficient in **HTML**, **CSS**, and **JavaScript**, creating responsive and visually appealing web applications.  
-- 📱 **Programming**: Skilled in **Java** for backend development and logic implementation.  
-- 🛢️ **Databases**: Knowledgeable in **MySQL** for managing and querying relational databases.  
-- 🌱 **Learning**: Always exploring new tools, frameworks, and technologies to improve my skills.  
+I believe the best solutions come from a good understanding of the whole process: idea → design → build → deploy.
 
-💼 **Current Focus**  
-- 🌟 Building projects that enhance user experiences.  
-- 💡 Deepening my understanding of web development and database integration.  
+⚙️ Tech I'm working with
+Languages:
+Java, JavaScript, Python
 
-📌 **Hobbies**  
-- 🎮 Gaming and exploring the latest tech.  
-- 📚 Learning about software engineering best practices.  
+Frameworks & Libraries:
+Spring Boot, React Native, Node.js, JUnit
+
+Databases:
+MySQL, Firebase, Supabase (PostgreSQL), pgvector
+
+DevOps & Tools:
+Git, GitHub Actions, Docker, Maven, Azure
+
+Methodologies:
+Agile development, Scrum, CI/CD pipelines, UML modeling
+
+📱 Current Project
+🗳️ Folketinget Mobile App (React Native + Expo)
+An app that makes Danish parliamentary votes searchable by meaning, not just keywords.
+
+Built with React Native, styled for a clean user experience
+
+Filter votes by party, type, or result
+
+Uses OpenAI embeddings + pgvector to implement semantic search
+
+Goal: make politics more accessible and transparent through smarter tech
+
+Why just read laws when you can actually find the ones that matter to you? 😉
+
+🔗 Connect with Me
+📬 hasanrashid97@gmail.com
+
+🔗 LinkedIn
