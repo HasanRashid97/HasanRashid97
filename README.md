@@ -46,7 +46,7 @@ Git • GitHub Actions • Docker • Maven
 - OOP & functional programming  
 - System development with Scrum and UML  
 - CI/CD with GitHub Actions and Jenkins  
-- Intro to IT security & Docker
+- It security fundamentals
 
 ---
 
